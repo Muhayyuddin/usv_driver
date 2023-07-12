@@ -1,0 +1,7 @@
+**/.cache
+**/build
+**/devel
+**/.vscode
+**/logs
+*~
+**/.catkin_workspace
